@@ -6,7 +6,7 @@ const Grid = () => {
   return (
     <section id='about'>
         <BentoGrid>
-            {[{ title: 'Title1', description: 'Desc1'}]}
+            {[{ title: 'Title1', description: 'Desc1'}]}d
         </BentoGrid>
     </section>
   )

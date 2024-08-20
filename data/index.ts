@@ -170,6 +170,7 @@ export const navItems = [
       img: "/dock.svg",
       nameImg: "/dockerName.svg",
     },
+
   ];
   
   export const workExperience = [

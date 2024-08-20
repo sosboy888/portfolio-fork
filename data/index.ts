@@ -107,33 +107,35 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "I have had the pleasure of working alongside Larkin during our time at BloomTech. He consistently impressed me with his strong grasp of both front-end and back-end development. His ability to tackle complex problems with creativity and precision reflects his dedication to delivering high-quality solutions. Larkin is a valuable team member who communicates effectively and contributes proactively to project success. I strongly recommend him as a software developer for any team!",
+      name: "Michaiah Bos",
+      title: "Bloomtech Alumni",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
+        "I have had the pleasure of working alongside Larkin during our time at BloomTech. He consistently impressed me with his strong grasp of both front-end and back-end development. His ability to tackle complex problems with creativity and precision reflects his dedication to delivering high-quality solutions. Larkin is a valuable team member who communicates effectively and contributes proactively to project success. I strongly recommend him as a software developer for any team!",
+      name: "Michaiah Bos",
+      title: "Bloomtech Alumni",
+    },{
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
+        "I have had the pleasure of working alongside Larkin during our time at BloomTech. He consistently impressed me with his strong grasp of both front-end and back-end development. His ability to tackle complex problems with creativity and precision reflects his dedication to delivering high-quality solutions. Larkin is a valuable team member who communicates effectively and contributes proactively to project success. I strongly recommend him as a software developer for any team!",
+      name: "Michaiah Bos",
+      title: "Bloomtech Alumni",
+    },{
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
+        "I have had the pleasure of working alongside Larkin during our time at BloomTech. He consistently impressed me with his strong grasp of both front-end and back-end development. His ability to tackle complex problems with creativity and precision reflects his dedication to delivering high-quality solutions. Larkin is a valuable team member who communicates effectively and contributes proactively to project success. I strongly recommend him as a software developer for any team!",
+      name: "Michaiah Bos",
+      title: "Bloomtech Alumni",
+    },{
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "I have had the pleasure of working alongside Larkin during our time at BloomTech. He consistently impressed me with his strong grasp of both front-end and back-end development. His ability to tackle complex problems with creativity and precision reflects his dedication to delivering high-quality solutions. Larkin is a valuable team member who communicates effectively and contributes proactively to project success. I strongly recommend him as a software developer for any team!",
+      name: "Michaiah Bos",
+      title: "Bloomtech Alumni",
+    },{
+      quote:
+        "I have had the pleasure of working alongside Larkin during our time at BloomTech. He consistently impressed me with his strong grasp of both front-end and back-end development. His ability to tackle complex problems with creativity and precision reflects his dedication to delivering high-quality solutions. Larkin is a valuable team member who communicates effectively and contributes proactively to project success. I strongly recommend him as a software developer for any team!",
+      name: "Michaiah Bos",
+      title: "Bloomtech Alumni",
     },
   ];
   
@@ -168,6 +170,7 @@ export const navItems = [
       img: "/dock.svg",
       nameImg: "/dockerName.svg",
     },
+
   ];
   
   export const workExperience = [

@@ -5,18 +5,18 @@ import { div } from 'three/webgpu'
 
 const Clients = () => {
   return (
-    <div className='py-20'>
+    <div className='py-20' id='testimonials'>
     <h1 className='heading'>
         Kind words from {' '}
         <span className='text-purple'>Enamored coworkers</span>
     </h1>
-        <div className='flex flex-col items-center max-lg:mt-10 '>
+        <div className='flex flex-col items-center max-lg:mt-10 pt-10'>
             <InfiniteMovingCards 
                 items={testimonials}
                 direction='right'
                 speed='slow'
                 />
-             <h1 className='heading'>
+             <h1 className='heading py-20'>
         Companies I derive {' '}
         <span className='text-purple'>inspiration</span>
     </h1>

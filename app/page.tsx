@@ -5,6 +5,7 @@ import { FaHome } from "react-icons/fa";
 import Grid from "./components/Grid";
 import RecentsProjects from "./components/RecentsProjects";
 import Clients from "./components/Clients";
+import Experience from "./components/Experience";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
           <Grid />
           <RecentsProjects />
           <Clients />
+          <Experience />
         </div>
       </main>
   );

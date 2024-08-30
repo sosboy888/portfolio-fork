@@ -72,19 +72,19 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+      title: "Brainwave AI",
+      des: "Display of modern UI/UX utilizing modern bento grid designs and animations",
       img: "/p1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://github.com/LarkinzC/Dopamine",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      title: "Youtube React Clone",
+      des: "Enjoy all modern implementations that industry leaders implement and provide",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "https://github.com/LarkinzC/React-Youtube-Clone",
     },
     {
       id: 3,
@@ -208,13 +208,11 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link: 'https://github.com/LarkinzC',
     },
     {
       id: 2,
-      img: "/twit.svg",
-    },
-    {
-      id: 3,
       img: "/link.svg",
+      link: 'https://www.linkedin.com/in/larkin-campbell/'
     },
   ];

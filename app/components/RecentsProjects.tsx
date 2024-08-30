@@ -1,6 +1,4 @@
 import React from 'react'
-import { DiLaravel } from 'react-icons/di'
-import { div } from 'three/webgpu'
 import { projects } from '@/data'
 import { PinContainer } from './ui/3d-Pin'
 import { FaLocationArrow } from 'react-icons/fa'

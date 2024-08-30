@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Head from 'next/head'
 import Hero from './components/Hero'
 import { FloatingNav } from "./components/ui/FloatingNav";
 import { FaHome } from "react-icons/fa";

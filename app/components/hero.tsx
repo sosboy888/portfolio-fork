@@ -34,7 +34,7 @@ const Hero = () => {
                 words='Transforming Concepts into Seamless User Experiences'
             />
             <p className='text-center md: tracking-wider mb-4 text-sm md:text-large lg:text-2xl'>
-                Hi, I&apos;m Larkin, a Next.js Developer based in California.
+                Hi, I&apos;m Larkin, a React.js Developer based in California.
             </p>
             <a href='/about'>
               <MagicButton 

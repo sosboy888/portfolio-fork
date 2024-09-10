@@ -91,7 +91,7 @@ export const navItems = [
       title: "RGB Guesser",
       des: "Application testing clients RGB value intuition",
       img: "/gitproj.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg", "/js.svg", "/css.svg", "/re.svg"],
+      iconLists: ["/tail.svg", "/ts.svg", "/three.svg", "/c.svg", "/js.svg", "/css.svg", "/re.svg"],
       link: "https://github.com/LarkinzC/RGB-Guesser",
     },
     {

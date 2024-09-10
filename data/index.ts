@@ -74,7 +74,7 @@ export const navItems = [
       id: 1,
       title: "Brainwave AI",
       des: "Display of modern UI/UX utilizing modern bento grid designs and animations",
-      img: "/p1.svg",
+      img: "/gitproj.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/js.svg"],
       link: "https://github.com/LarkinzC/Dopamine",
     },

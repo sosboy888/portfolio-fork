@@ -29,7 +29,7 @@ const Clients = () => {
                         className='md:w-24 w-20'
                     />
                     <img 
-                        src={nameImg || null}
+                        src={nameImg || ''}
                         alt={name}
                         className='md:w-24 w-20'
                     />

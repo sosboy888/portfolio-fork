@@ -176,15 +176,15 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "Bloom Institue of Tech Graduate",
+      desc: "Completed Full-Stack Web Development certificate. acquiring modern, industry relevant, tech stacks.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      title: "Grand Canyon University Student",
+      desc: "Currently enrolled in Grand Canyon Universities BA Computer Science degree.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
